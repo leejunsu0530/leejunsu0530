@@ -1,19 +1,21 @@
-## Hi there 👋
-<!--https://velog.io/@yeuljliyn/GitHub-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0-README.md
+## Projects I'm currently woeking on:
 
-https://madplay.github.io/post/design-github-profile-using-readme-md
--->
-<!--
-**leejunsu0530/leejunsu0530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```mermaid
+classDiagram
+자바스크립트 타입 <|-- Apple
+자바스크립트 타입 <|-- 5
+자바스크립트 타입 <|-- True
+자바스크립트 타입 : String
+자바스크립트 타입 : Number
+자바스크립트 타입: Boolean
+class Apple{
+    String
+}
+class 5{
+    Number
+}
+class True{
+    Boolean
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
